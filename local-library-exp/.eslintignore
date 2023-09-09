@@ -1,2 +1,4 @@
 dist
 **/*.js
+routes
+app.js
